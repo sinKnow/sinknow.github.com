@@ -2,6 +2,7 @@
 	background-color: #181A1D;
 	padding-top: 60px;
     padding-bottom: 120px;
+    margin-bottom: 0px;
 }
 .navbar-static-top{
 	background-color: #181A1D;
@@ -59,4 +60,26 @@
 	margin-bottom: 20px;
 	margin-top: 20px;
 	font-size: 38px;
+}
+.simple-description{
+	background-image: url(../images/second.jpg);
+	width: 100%;
+	height: 400px;
+}
+.description-head{
+	text-align: center;
+	padding-top: 50px;
+	color: green;
+}
+.description-head-first{
+	font-weight: 900;
+	font-size: 18px;
+}
+.show-block{
+	height: 250px;
+}
+.description-foot{
+	text-align: center;
+	padding-top: 10px;
+	color: green;
 }
