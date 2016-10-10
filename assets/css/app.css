@@ -1,0 +1,49 @@
+.clearboth{
+	clear:both;
+}
+.fullscreen{
+	position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index:10;
+}
+.displaydialog-inline{
+	display: inline;
+}
+.displaydialog-block{
+	display: block;
+}
+.displaydialog-none{
+	display: none;
+}
+
+.color-orange{
+	color:#E14E6E;
+}
+.color-yellow{
+	color:#FCA00D;
+}
+.color-green{
+	color:#1B9792;
+}
+.color-blue{
+	color:#2FA4E5;
+}
+
+.color-red{
+	color:#E84048;
+}
+.color-black{
+	color:#7D8283;
+}
+
+.sgridicon{
+	color: #F89A68;
+	font-size: 18px;
+}
+.sgridicon2{
+	color: #ABABAB;
+	font-size: 14px;
+}
